@@ -18,6 +18,10 @@
 		{
 			"Name": "RemoteControlProtocolOSC",
 			"Enabled": true
+		},
+		{
+			"Name": "OnlineFramework",
+			"Enabled": true
 		}
 	]
 }
